@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Code Base</string>
+    <string name="text_active">Accelerometer active</string>
+    <string name="text_inactive">Accelerometer inactive</string>
+</resources>
